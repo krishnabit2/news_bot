@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d68d8212-ef25-4486-aea2-e2203f1e781f",
+    "data": [
+      {
+        "text": "Tell me News",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529578591
+  },
+  {
+    "id": "85838c0e-d3f8-41b6-9a54-e9faadc210f6",
+    "data": [
+      {
+        "text": "News",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529578591
+  },
+  {
+    "id": "d57503f2-9859-4995-80d9-7512906770d7",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529578591
+  },
+  {
+    "id": "e2ef9608-687e-4d1a-8cc9-0a01e2ee26d8",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529578591
+  }
+]
